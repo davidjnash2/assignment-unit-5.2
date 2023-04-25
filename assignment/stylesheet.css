@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.field {
+    background-image: url("../assignment/record.png");
+    background-color: pink;
+    background-repeat: repeat-xy;
+    background-position: 50%;
+    height: auto;
+    background-size: 30%;
+}
+
+
+.upTop {
+    background-color: indigo;
+    color: lime;
+    text-align: center;
+}
+
+.getEm {
+    background-color: lightgray;
+    padding: 1em;
+    text-align: center;
+}
